@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1-b14](https://github.com/javalent/the-calendarium/compare/1.0.0-b14...1.0.1-b14) (2023-06-24)
+
+
+### Bug Fixes
+
+* exit sorting events if no sort object on events ([6a9b690](https://github.com/javalent/the-calendarium/commit/6a9b690eb6c2678b0e148c462933206cae456d17))
+
 ## [1.0.0-b14](https://github.com/javalent/the-calendarium/compare/1.0.0-b13...1.0.0-b14) (2023-06-24)
 
 
